@@ -14,7 +14,7 @@ public class Aula01 {
 		int _1a; //não dá erro de compilação, mas não é uma boa prática
 		int $aq; //não dá erro de compilação, mas não é uma boa prática
 		
-		//variaveis iniciadas
+		//inicialização de variáveis
 		i = 5;
 		I = 10;
 		_1a = 20;
