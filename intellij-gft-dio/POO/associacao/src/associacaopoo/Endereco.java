@@ -1,0 +1,4 @@
+package associacaopoo;
+
+class Endereco {
+}

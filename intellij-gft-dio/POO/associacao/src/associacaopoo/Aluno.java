@@ -1,0 +1,5 @@
+package associacaopoo;
+
+class Aluno {
+
+}
